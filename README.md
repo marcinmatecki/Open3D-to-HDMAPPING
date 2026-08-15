@@ -6,9 +6,8 @@ Download the KITTI sequence 00 dataset from [kitti_to_ros](https://github.com/Ja
 
 In the **SeqLiDAR + IMUCalibration** section download:
 
-- [2011_10_03_drive_0027_extract.zip](https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data/2011_10_03_drive_0027/2011_10_03_drive_0027_extract.zip)
-- [2011_10_03_calib.zip](https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data/2011_10_03_calib.zip)
-
+- 2011_10_03_drive_0027_extract.zip
+- 
 Extract the dataset:
 
 ```shell

@@ -35,8 +35,8 @@ Run following commands in terminal:
 ```shell
 mkdir -p ~/hdmapping-benchmark-loop-closure
 cd ~/hdmapping-benchmark-loop-closure
-git clone https://github.com/marcinmatecki/OPEN3D --recursive
-cd benchmark-HDMapping-AILoopClosure-Open3D
+git clone https://github.com/marcinmatecki/Open3D-to-HDMAPPING --recursive
+cd Open3D-to-HDMAPPING
 docker build -t open3d_docker .
 ```
 
@@ -47,7 +47,7 @@ docker build -t open3d_docker .
 Make the script executable:
 
 ```shell
-cd ~/hdmapping-benchmark-loop-closure/benchmark-HDMapping-AILoopClosure-Open3D
+cd ~/hdmapping-benchmark-loop-closure/Open3D-to-HDMAPPING
 chmod +x docker_session_run-open3d.sh
 ```
 

@@ -35,7 +35,7 @@ Run following commands in terminal:
 ```shell
 mkdir -p ~/hdmapping-benchmark-loop-closure
 cd ~/hdmapping-benchmark-loop-closure
-git clone https://github.com/marcinmatecki/Open3D-to-HDMAPPING --recursive
+git clone https://github.com/marcinmatecki/Open3D-to-HDMAPPING.git --recursive
 cd Open3D-to-HDMAPPING
 docker build -t open3d_docker .
 ```

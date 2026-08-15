@@ -2,7 +2,7 @@
 
 ## Step 1 (prepare data)
 
-Download the KITTI sequence 00 dataset from [kitti_to_ros](https://github.com/Jakubach/kitti_to_ros).
+Download the KITTI sequence 00 2011_10_03_drive_0027_extract.zip dataset from [kitti_to_ros](https://github.com/Jakubach/kitti_to_ros) .
 
 In the **SeqLiDAR + IMUCalibration** section download:
 
